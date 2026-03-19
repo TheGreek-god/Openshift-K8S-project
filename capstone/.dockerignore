@@ -1,0 +1,10 @@
+venv/
+.env
+.git
+.gitignore
+README.md
+.DS_Store
+*.pyc
+__pycache__/
+db.sqlite3  # Optional: exclude if you want fresh DB
+Data/*.csv  # Optional: exclude if you want fresh data
