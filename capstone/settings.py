@@ -30,6 +30,8 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     'flight-web-app.herokuapp.com',
+    '*',
+    'flight-web-default.apps.amnhkhi5535cb16a4a.canadacentral.aroapp.io',
 ]
 
 
